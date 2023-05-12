@@ -1,0 +1,22 @@
+.col{
+    position: absolute;
+    left: 13em;
+    top: 30em;
+    color: white;
+}
+.col2{
+    position: absolute;
+    left: 55em;
+    top: 30em;
+    color: white;
+}
+li{
+    list-style: none;
+    line-height: 1.7em;
+}
+.unstyling{
+    padding-left: 6em;
+}
+.styling{
+    padding-left: 3em;
+}

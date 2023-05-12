@@ -1,0 +1,22 @@
+#firstHeading{
+    margin-top:2em;
+    left: 4em;
+    position: absolute;
+}
+#secondHeading{
+    left: 8em;
+    top: 11em;
+    position:absolute;
+    font-weight: 400;
+}
+#thirdHeading{
+    left:6.8em;
+    top: 13em;
+    position:absolute;
+}
+#fourthHeading{
+    color: white;
+    position: absolute;
+    top: 23em;
+    left:8em ;
+}

@@ -1,0 +1,10 @@
+
+.App-header {
+  background-color: #FFCD9E;
+  min-height: 70vh;
+  margin:0;
+}
+.App-footer{
+  background-color:#282828;
+  height: 30vh;
+}
