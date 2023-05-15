@@ -1,4 +1,6 @@
+import React from 'react';
 import './Headings.css';
+
 function Headingss() {
   return (
     <div>
